@@ -1,2 +1,2 @@
 This is the index
- ![Image](cd Desktop/UCSD/CSE15L/cdwithnoarg)
+ ![Image](Desktop/UCSD/CSE15L/cdwithnoarg)
