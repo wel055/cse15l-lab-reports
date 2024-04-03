@@ -2,8 +2,11 @@
 # Share an example of using the command with no arguments.
   1. cd
       ![Image](cdwithnoarg.png)
+     
      `cd`
+     
       Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L
+     
       The command brings me to the home directory as after I executed cd with no arg the absolute path become /Users/wenxili
       The output is not an error.
 
