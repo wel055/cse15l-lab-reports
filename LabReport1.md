@@ -34,7 +34,7 @@
      
   The output is not an error.  
   
-  __2. ls__
+  __2. ls__  
       ![Image](lsdirectory.png)  
      
      `ls Commandls`  
