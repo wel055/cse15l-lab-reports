@@ -1,6 +1,6 @@
 # Lab Report 1
 ## Share an example of using the command with no arguments.
-  1. __cd__
+  __1. cd__
       ![Image](cdwithnoarg.png)  
      
      `cd`
@@ -11,7 +11,7 @@
      
   The output is not an error.
 
-  2. __ls__
+  __2. ls__
       ![Image](lsnoarg.png)  
       
      `ls`  
@@ -23,7 +23,7 @@
   The output is not an error.  
   
 ## Share an example of using the command with a path to a directory as an argument.  
-  1. __cd__
+  __1. cd__
       ![Image](cdtoadirct.png)  
      
       `cd Commandcd`  
@@ -34,7 +34,7 @@
      
   The output is not an error.  
   
-  2. __ls__
+  __2. ls__
       ![Image](lsdirectory.png)  
      
      `ls Commandls`  
@@ -47,22 +47,22 @@
      
 
 ## Share an example of using the command with a path to a file as an argument.
-  1. __cd__
+  __1. cd__
      ![Image](cdtoafile.png)  
      
      `cd Commandcd/cdtoadirct.png`  
      
-  Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
+   Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
      
-  There is a folder Commandcd inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandcd. The command produces an error since cd wants to get into a folder but cdtoadirct.png is an actual file.  
+   There is a folder Commandcd inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandcd. The command produces an error since cd wants to get into a folder but cdtoadirct.png is an actual file.  
      
-  The output is an error since cd need to be into a directory, cannot directly open a file.  
+   The output is an error since cd need to be into a directory, cannot directly open a file.  
 
-  2.ls
+  __2. ls__
       ![Image](lsfile.png)  
       `cd Commandcd/cdtoadirct.png`  
       
-  Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
-  There is a folder Commandls inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandls. The command read the directory file and the file name is listed.  
-  The output is not an error.
+   Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
+   There is a folder Commandls inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandls. The command read the directory file and the file name is listed.  
+   The output is not an error.
 
