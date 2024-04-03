@@ -11,7 +11,16 @@
      
       The output is not an error.
 
-  2.
+  2.ls
+      ![Image](lsnoarg.png)
+     
+     `ls`  
+     
+      Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L
+     
+      The command ls with no argument shows all files in the current directory. I have three folders in CSE 15L: Commandcat Commanded Commandls. Therefore ls shows these three folders.
+     
+      The output is not an error.
 ## Share an example of using the command with a path to a directory as an argument.
   1. cd
       ![Image](cdtoadirct.png)
@@ -21,6 +30,16 @@
       Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L
      
       There is a folder named Commandcd within the folder CSE 15L. The command brings me into the file I specified (Commandcd) as after I executed cd the absolute path become /Users/wenxili/Desktop/UCSD/CSE 15L/Commandcd
+     
+      The output is not an error.
+  2.ls
+      ![Image](lsdirectory.png)
+     
+     `ls Commandls`  
+     
+      Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L
+     
+      There is a folder named Commandls within the folder CSE 15L. The command shows all files in the folder I specified (Commandls), when I execute the command there is one png (lsnoarg) inside the folder Commandls therefore the ouput is lsnoarg.
      
       The output is not an error.
      
@@ -36,6 +55,14 @@
      There is a folder Commandcd inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandcd. The command produces an error since cd wants to get into a folder but cdtoadirct.png is an actual file.
      
      The output is an error since cd need to be into a directory, cannot directly open a file.
+
+  2.ls
+      ![Image](lsfile.png)  
+      `cd Commandcd/cdtoadirct.png`  
+      
+     Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L
      
-  3. 
+     There is a folder Commandls inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandls. The command read the directory file and the file name is listed.
+     
+     The output is not an error.
 
