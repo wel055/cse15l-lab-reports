@@ -11,8 +11,8 @@
      
   The output is not an error.
 
-  __2. ls__
-      ![Image](lsnoarg.png)  
+  __2. ls__  
+    ![Image](lsnoarg.png)  
       
      `ls`  
      
@@ -58,8 +58,9 @@
      
    The output is an error since cd need to be into a directory, cannot directly open a file.  
 
-  __2. ls__
-      ![Image](lsfile.png)  
+  __2. ls__  
+  ![Image](lsfile.png)  
+  
       `cd Commandcd/cdtoadirct.png`  
       
    Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
