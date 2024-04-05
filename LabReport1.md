@@ -55,7 +55,7 @@
      
   The output is not an error.  
 
-  __3. cat__
+  __3. cat__  
       ![Image](catdirectory.png)  
      
       `cd Commandcd`  
@@ -73,7 +73,7 @@
      
    Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
      
-   There is a folder Commandcd inside the folder CSE 15L and there is png named cdwithnoarg inside Commandcd. The command produces an error since cd cannot open a file.
+   There is a folder Commandcd inside the folder CSE 15L and there is png named cdtoadirct.png inside Commandcd. The command produces an error since cd cannot open a file.
      
    The output is an error since since cd is suppose to take directory and change the current directory. cd can be use to direct into a folder but it cannot directly open a file.
 
