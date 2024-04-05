@@ -22,7 +22,7 @@
      
   The output is not an error.  
   
-  __3. cat__
+  __3. cat__  
       ![Image](catnoarg.png)  
      
      `cat`
