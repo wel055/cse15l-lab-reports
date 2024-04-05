@@ -58,7 +58,7 @@
   __3. cat__  
       ![Image](catdirectory.png)  
      
-      `cd Commandcd`  
+      `cat Commandcat`  
      
   Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
      
@@ -84,5 +84,16 @@
       
    Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
    There is a folder Commandls inside the folder CSE 15L and there is a file named cdtoadirct.png inside Cammmandls. The command read the directory file and the file name is listed.  
-   The output is not an error.
+   The output is not an error.  
+   
+  __3. cat__  
+      ![Image](catfile.png)  
+     
+      `cat HelloWorld.txt`  
+      `cat HelloWorld.txt CSE15L.txt`  
+     
+  Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L/Commandcat  
+     
+  There are two text files: HelloWorld.txt and CSE15L.txt in a folder named Commandcat within the folder CSE 15L. The first command takes in one file named HelloWorld.txt prints the content of the file HelloWorld.txt. The second command takes in two files named HelloWorld.txt and CSE15L.txt and prints the contents of the files in order.  
+  The output is not an error.   
 
