@@ -30,13 +30,13 @@
 
   
 
-  __2. ls__  
-    ![Image](lsnoarg.png)  
-      
-     `ls`  
-     
-  Absolute path: /Users/wenxili/Desktop/UCSD/CSE 15L  
-     
-  The command ls with no argument shows all files in the current directory. I have three folders in CSE 15L: Commandcat Commanded Commandls. Therefore ls shows these three folders.  
-     
-  The output is not an error.  
+## Part 2  
+
+  __1__
+  ![Image](pathToPrivate.png)  
+
+  __2__
+  ![Image](pathToPublic.png)  
+  
+  __3__
+  ![Image](withoutPassword.png)  
