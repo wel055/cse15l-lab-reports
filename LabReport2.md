@@ -4,7 +4,7 @@
   ![Image](ChatServerCode.png)  
      
   __Screen shots of requests__
-  ![Image](/add-message?s=Hello&user=jpolitz.png)  
+  ![Image](jpolitz.png)  
      
   `/add-message?s=Hello&user=jpolitz`
      
@@ -16,7 +16,7 @@
   Field Changes:  
   chatHistory would change from previous chat (in this case empty) to append jpolitz: `Hello\n`, resulting in `chatHistory.toString()` returning `jpolitz: Hello\n`.  
   
-  ![Image](/add-message?s=How are you&user=yash.png)  
+  ![Image](yash.png)  
   
   `/add-message?s=How are you&user=yash`  
 
@@ -32,7 +32,7 @@
 
 ## Part 2  
 
-  __1__
+  __1__  
   ![Image](pathToPrivate.png)  
 
   __2__
