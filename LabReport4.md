@@ -1,4 +1,4 @@
-# Lab Report 3
+# Lab Report 4
 4. I Log into ieng6 with `ssh wel055@ieng6.ucsd.edu`
    
    ![Image](step4.png)
